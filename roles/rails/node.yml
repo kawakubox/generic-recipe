@@ -1,0 +1,9 @@
+platform: redhat
+
+rbenv:
+  global:
+    2.3.3
+  versions:
+    - 2.3.3
+
+  scheme: https
