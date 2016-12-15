@@ -1,5 +1,3 @@
-platform: redhat
-
 rbenv:
   global:
     2.3.3
