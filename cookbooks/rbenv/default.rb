@@ -1,4 +1,3 @@
-require 'pry'
 include_recipe 'rbenv::system'
 
 file '/home/ec2-user/.bashrc' do
